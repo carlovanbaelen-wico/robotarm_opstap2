@@ -1,0 +1,22 @@
+{
+    "name": "RobotArm_OpStap2",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "magicbit": "github:emakefun/pxt-magicbit#007cee3d3398ad090f21caac78d85306261280c9"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
